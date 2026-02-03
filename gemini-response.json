@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ui_ux_designer",
+    "title": "UI/UX Designer",
+    "match": 95,
+    "whyFits": "Your interest in organizing systems and a mix of creative and technical work aligns perfectly. This role involves designing efficient, user-friendly interfaces and experiences."
+  },
+  {
+    "id": "software_engineer",
+    "title": "Software Engineer",
+    "match": 90,
+    "whyFits": "With your passion for organizing systems, improving efficiency, and a background in science, software engineering is a strong fit. You can apply both technical logic and creative problem-solving to build solutions."
+  },
+  {
+    "id": "product_manager",
+    "title": "Product Manager",
+    "match": 90,
+    "whyFits": "This role requires a blend of creative vision and technical understanding to organize and improve product systems. Your desire for a mix of creative and technical work, combined with a focus on efficiency, makes this an excellent path."
+  },
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "match": 88,
+    "whyFits": "Your interest in science, organizing systems, and improving efficiency is central to data science. You would use analytical skills to extract insights and build models, often with creative visualization."
+  },
+  {
+    "id": "industrial_designer",
+    "title": "Industrial Designer",
+    "match": 85,
+    "whyFits": "Leveraging your arts and creative subjects background with a focus on organizing systems and efficiency, this career involves designing products that are both functional and aesthetically pleasing. It's a true blend of creative and technical work."
+  },
+  {
+    "id": "game_developer",
+    "title": "Game Developer",
+    "match": 87,
+    "whyFits": "This path heavily integrates your love for creative subjects and scientific principles with a strong technical component. You would be organizing complex systems and improving user experiences in an interactive, dynamic environment."
+  }
+]

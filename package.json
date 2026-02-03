@@ -1,0 +1,34 @@
+{
+  "name": "assessment-backend",
+  "version": "1.0.0",
+  "description": "Backend server for assessment app with ElevenLabs TTS",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "start:alt": "node server-alternative.js",
+    "dev": "nodemon server.js",
+    "dev:alt": "nodemon server-alternative.js",
+    "test": "curl http://localhost:5000/api/test-elevenlabs"
+  },
+  "keywords": [
+    "elevenlabs",
+    "tts",
+    "assessment",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "optionalDependencies": {
+    "elevenlabs": "^0.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
